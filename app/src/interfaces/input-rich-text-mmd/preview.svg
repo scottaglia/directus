@@ -1,0 +1,17 @@
+<svg width="156" height="96" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<rect x="18" y="15" width="120" height="66" rx="6" fill="var(--background-page)" class="glow" />
+	<rect x="19" y="16" width="118" height="64" rx="5" stroke="var(--primary)" stroke-width="2" />
+	<rect x="30.38132" y="42.52385" width="10.9523" height="11.42849" fill="var(--primary)"/>
+	<rect x="50.4981" y="42.52385" width="10.9523" height="11.42849" rx="100" fill="var(--primary)"/>
+	<rect x="116.46185" y="28.23825" width="10.9523" height="11.42849" rx="2" fill="var(--primary)" fill-opacity="0.25"/>
+	<rect x="95.82441" y="28.00015" width="10.9523" height="11.42849" fill="var(--primary)" fill-opacity="0.25"/>
+	<rect x="95.82441" y="55.85708" width="10.9523" height="11.42849" rx="2" fill="var(--primary)"/>
+	<rect x="71.46372" y="42.52385" width="10.9523" height="11.42849" fill="var(--primary)" />
+	<line x1="36.09556" y1="48.23809" x2="58.24976" y2="48.23809" stroke="var(--primary)"/>
+	<line x1="106.80934" y1="33.4763" x2="116.45567" y2="33.4763" stroke="var(--primary)" stroke-opacity="0.25"/>
+	<path d="m64.33242,44.09716l1.02812,-1.82537l1.02812,1.82537l-0.51406,0l0,10.14057l-1.02812,0l0,-10.14057l-0.51406,0z" transform="rotate(90 65.3605 48.2548)" fill="var(--primary)"/>
+	<path d="m91.35657,32.64518l1.02812,-1.82537l1.02812,1.82537l-0.51406,0l0,4.09221l-1.10876,0l0.08064,-4.09221l-0.51406,0z" transform="rotate(90 92.3847 33.7786)" fill="var(--primary)" />
+	<line x1="89.82183" y1="33.45125" x2="80.9509" y2="47.24151" stroke="var(--primary)" />
+	<line x1="80.9509" y1="50" x2="89.66054" y2="62" stroke="var(--primary)" />
+	<path d="m91.10657,60.6219l1.02812,-1.82537l1.02812,1.82537l-0.51406,0l0,4.09221l-1.04627,0.5l0.01815,-4.59221l-0.51406,0z" transform="rotate(90 92.1347 62.0053)" fill="var(--primary)"/>
+</svg>

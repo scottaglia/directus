@@ -130,6 +130,7 @@
 		"mapbox-gl": "1.13.3",
 		"maplibre-gl": "1.15.3",
 		"marked": "5.0.2",
+		"mermaid": "^10.2.0",
 		"micromustache": "8.0.3",
 		"mime": "3.0.0",
 		"mitt": "3.0.0",

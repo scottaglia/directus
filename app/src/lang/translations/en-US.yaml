@@ -1630,6 +1630,12 @@ interfaces:
     box: Block / Inline
     imageToken: Static Access Token
     imageToken_label: Static access token is appended to the assets' URL
+  input-rich-text-mmd:
+    mermaid: Mermaid
+    description: Enter and preview mermaid diagram
+    hidePreview: Hide Preview
+    previewSide: Preview to the side
+    previewBottom: Preview to bottom
   map:
     map: Map
     description: Select a location on a map
